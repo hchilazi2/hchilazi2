@@ -6,7 +6,7 @@ int main ()
     cout << "Hi, I’m @hchilazi2\n";
     cout << "I’m interested in Computer Engineering [Software and Hardware Engineering]\n";
     cout << "I’m currently learning C++\n";
-    cout << "How to reach me [Discord : hchilazi2#5145]\n";
+    cout << "How to reach me [Discord : hchilazi2#5145]";
     return 0;
     
     // This is my introduction...
